@@ -1,0 +1,9 @@
+POST http://localhost:7777/product/save
+content-type: application/json
+
+{
+    "name": "Asus F15",
+    "price": 1499,
+    "weight": 15,
+    "category": "Electronics"
+}

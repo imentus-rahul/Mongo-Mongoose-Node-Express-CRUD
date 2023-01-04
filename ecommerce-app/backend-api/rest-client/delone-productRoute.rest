@@ -1,0 +1,2 @@
+GET http://localhost:7777/product/delete/63b54dfcc07a254e5e384748
+content-type: application/json
